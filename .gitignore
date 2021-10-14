@@ -1,0 +1,22 @@
+# Data folders
+Images/
+Tiras/*
+Recortes/*
+Testing/
+
+# Code folders 
+CodigosMatlab/
+Librerias/*
+
+# *.rar files
+*.rar 
+
+# IDE folders 
+.idea/
+
+# Other files 
+*.asv
+scriptForTests.m
+textureTesting.m
+localizationScript.m
+recortesMultiGlomerulo.m
